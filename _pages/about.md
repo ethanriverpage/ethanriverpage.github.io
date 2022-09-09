@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: DevOps/SRE Engineer from Atlanta, GA.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Me at one of my favorite nature spots:</p>
+    <p>Sunset Rock at Lookout Mountain</p>
+    <p>Lookout Mountain, TN.</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Tech hobbyist turned problem solver. Currently studying for AWS Solutions Architect & Developer certifications with Emory University & Fullstack Academy. As a life principle, I attempt to optimize & automate everything I can—an expert in learning by collaboration and eventually Googling the solution. I started with a homelab -- ended up with skills such as Linux, Docker (& docker-compose), virtualization (Proxmox), NGINX, etc. Now looking to learn/develop my skills in CI/CD, Terraform, Kubernetes & cloud services such as AWS, Azure, and GCP. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond tech, I currently work in youth ministry -- something I've been passionate about throughout my life. Through youth ministry, I've learned much about working as a team, strong leadership, and other valuable soft skills. Some of my hobbies include volleyball, audio engineering, electronics repair, and woodworking, among others. Passion and desire for improvement are what have driven me to where I am today.
