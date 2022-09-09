@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ethanriverpage
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ethanriverpage/docker-nginx-reverseproxy-yamlconf
+  - ethanriverpage/homelab-dockercompose
+  - ethanriverpage/ethanriverpage.github.io
+
