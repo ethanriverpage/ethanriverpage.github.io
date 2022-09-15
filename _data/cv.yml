@@ -73,7 +73,7 @@
       items: 
         - Dismantling Racism Training
         - Safeguarding God's Children training
-        - First Aid && CPR
+        - First Aid & CPR
     - year: 2019
       items:
         - S/P2 Safety & Pollution Prevention
@@ -83,11 +83,11 @@
   contents:
     - title: Git
       items:
-        - GitHub && GitLab
+        - GitHub & GitLab
         - GitHub Actions
     - title: Linux
       items: 
-        - Debian, Ubuntu && others
+        - Debian, Ubuntu & others
         - Bash
     - title: Virtualization/Containerization
       items:
@@ -102,11 +102,10 @@
 - title: Other Interests
   type: list
   contents:
-    - items:
-      - Homelab
-      - 3D Printing && CAD
-      - Audio engineering && production
-      - Media & content creation
-      - Electronics repair
-      - Woodworking
-      - and many more!
+    - Homelab
+    - 3D Printing & CAD
+    - Audio engineering & production
+    - Media & content creation
+    - Electronics repair
+    - Woodworking
+    - and many more!
