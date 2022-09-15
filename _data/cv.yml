@@ -2,96 +2,111 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Ethan R. Page
+    - name: Email
+      value: ethan@ethanriver.page
+    - name: Location
+      value: Atlanta, GA
+    - name: Phone Number
+      value: (770) 316-6947
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Coordinator for Youth Ministries
+      institution: St. Martin in the Fields Episcopal Church
+      year: Sep 2022 - Present
+      description:
+    - title: Summer Camp Staff Member
+      institution: Mikell Camp & Conference Center
+      year: May 2022 - Present
+      description:
+        - Planning over 40 full days of fun and thought-provoking activities for children aged 4-18 consistent with the camp’s goals
+        - Supervising and organizing social and recreational activities for over 800 children
+        - Working and evaluating risk for the safety of children and responding in emergency situations
+        - Managing and executing all media/technology related needs as leader of the A/V team, assessing needs and organizing/ordering necessary supplies
+        - Worked as part of the recreation team, designing and executing recreational group activities for children (2022)
+        - Aiding in compliance with American Camp Association rules and regulation
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Emory DevOps Bootcamp, AWS DevOps Engineer Certificate
+      institution: Emory University, in partnership with Fullstack Academy
+      year: Aug 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Science, Marketing (unfinished)
+      institution: Georgia State University, J. Mack Robinson College of Business
+      year: Aug 2019 - May 2021
       description:
-        - Description 1.
-        - Description 2.
+        - "Activities and societies: Sigma Nu Fraternity"
 
-- title: Experience
+- title: Volunteer Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Auxiliary Member (Post 5897)
+      institution: Veterans of Foreign Wars of the United States (VFW)
+      year: Oct 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      - Assisting veterans, service members, and their families in advocacy and fundraising
+      - Managing and administering Post 5897’s network connectivity, ensuring consistent internet access for veterans
+      - Volunteering in events for the VFW, fundraising for the organization and the community
+    - title: Volunteer
+      institution: Ossabaw Island Foundation
+      year: Feb 2018
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+      - Documented and photographed large parts of islands using aerial drone photography
+      - Photographed important landmarks for data collection & preservation
+    - title: Survey and Photogrammetry Volunteer
+      institution: American Excavations Samothrace
+      year: Jun 2015 - Aug 2015
       description:
+      - Assisted in archaeological studies of the Sanctuary of the Great Gods in partnership with Emory University and New York University
+      - Piloted remote drones to document and record sites on the island
+      - Digitally combined photographs using computer software for documentation use
+      - Published in National Geographic for aerial photography
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Certifications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Dismantling Racism Training
+        - Safeguarding God's Children training
+        - First Aid && CPR
+    - year: 2019
+      items:
+        - S/P2 Safety & Pollution Prevention
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Git
       items:
-        - Description 1.
-        - Description 2.
+        - GitHub && GitLab
+        - GitHub Actions
+    - title: Linux
+      items: 
+        - Debian, Ubuntu && others
+        - Bash
+    - title: Virtualization/Containerization
+      items:
+        - <a href="https://www.docker.com/">Docker</a>
+        - <a href="https://kubernetes.io/">Kubernetes</a>
+        - <a href="https://www.proxmox.com/en/">Proxmox</a>
+    - title: Networking
+      items:
+        - DNS
+        - SSL/TLS
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - items:
+      - Homelab
+      - 3D Printing && CAD
+      - Audio engineering && production
+      - Media & content creation
+      - Electronics repair
+      - Woodworking
+      - and many more!

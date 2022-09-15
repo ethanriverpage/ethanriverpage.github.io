@@ -11,7 +11,6 @@ profile:
   address: >
     <p>Me at one of my favorite nature spots:</p>
     <p>Sunset Rock at Lookout Mountain</p>
-    <p>Lookout Mountain, TN.</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
